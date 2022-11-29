@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @darkfolcer
 - 👀 I’m interested in cloud technologies and music.
-- 🌱 I’m currently learning Azure.
+- 🌱 I’m currently training myself on Azure.
 - 💞️ I’m looking to collaborate on SaaS applications.
 - 📫 How to reach me: bilallkutlu@gmail.com
 
